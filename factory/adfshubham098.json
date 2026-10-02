@@ -1,0 +1,15 @@
+{
+	"name": "adfshubham098",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9504c18e-a08f-4632-8846-df786e4f7504",
+		"tenantId": "a28d5e2c-92d3-4ab5-b66d-58ac0f607341"
+	}
+}
