@@ -5,8 +5,6 @@
 			{
 				"name": "Azuresql_to_source",
 				"type": "Copy",
-				"state": "Inactive",
-				"onInactiveMarkAs": "Succeeded",
 				"dependsOn": [
 					{
 						"activity": "LastCDC",
